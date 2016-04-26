@@ -1,2 +1,2 @@
-# Solo Base Project
-This is an example of what "base" elements are used in a development project.
+# Base Project
+The included files are examples of "base elements" that can be used for a development project.
